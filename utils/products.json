@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "1721762247431",
+    "title": "pepe 2",
+    "description": "producto pepe",
+    "code": "222",
+    "price": 222,
+    "status": true,
+    "stock": 5,
+    "category": "medias",
+    "thumbnails": [
+      "url",
+      "httt"
+    ]
+  }
+]
