@@ -32,7 +32,7 @@ const validateProduct = (product) => {
     !status ||
     !stock ||
     !category ||
-    !Array.isArray(thumbnails) ||
+    !thumbnails ||
     thumbnails.length < 1
   ) {
     return false;
